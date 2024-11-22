@@ -1,0 +1,7 @@
+{
+  "name": "render-web-hoster-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Frontend does not need a start script for deployment!'"
+  }
+}
